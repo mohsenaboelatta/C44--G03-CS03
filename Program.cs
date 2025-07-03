@@ -10,6 +10,7 @@ namespace assignment1_c_
         static void Main(string[] args)
         {
             #region 1.Write a program that allows the user to enter a number then print it.
+            //solution 1
             //Console.Write("Enter a number : ");
             ///int x;
             //int.TryParse(Console.ReadLine(), out x);
